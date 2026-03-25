@@ -79,3 +79,14 @@ On Laptop 2: Run python edge_device.py. (I used edgedevice1.py)
 On Laptop 1: Run python socket_sensor.py. ( I used socket_sensor1.py)
 
 On Laptop 1: Log into http://localhost:3000 to view the live dashboard.
+
+Screenshots of the program:
+
+![Screenshot 2026-03-25 133025](https://github.com/user-attachments/assets/6fb17efc-f5a6-4198-8c46-9daf27ae05c8)
+
+![Screenshot 2026-03-25 133242](https://github.com/user-attachments/assets/84d206bf-7a17-48fe-8b44-7ebd88e17e07)
+
+![Screenshot 2026-03-25 133358](https://github.com/user-attachments/assets/53a107cf-4709-4f89-9c23-4430bf3acc4e)
+
+
+
